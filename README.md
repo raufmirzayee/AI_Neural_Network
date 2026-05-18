@@ -1,2 +1,2 @@
 # AI_Neural_Network
-AI
+AI Assignment
